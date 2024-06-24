@@ -68,9 +68,6 @@ custom_domain = true
 pattern = "edu.ruangguru.com.singa.wayme.cloud"
 custom_domain = true
 [[routes]]
-pattern = "fadz.ngapaktunnelling.xyz.singa.wayme.cloud"
-custom_domain = true
-[[routes]]
 pattern = "creativeservices.netflix.com.singa.wayme.cloud"
 custom_domain = true
 [[routes]]
