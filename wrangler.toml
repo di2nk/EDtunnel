@@ -1,80 +1,93 @@
-name = "azure"
+name = "singa" # todo
+#name = "cf-worker-connect-test" # todo
+#main = "test/worker/cf-cdn-cgi-trace2.js"
+#main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-
 [[routes]]
-pattern = "azure.wayme.cloud"
+pattern = "singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "ava.game.naver.com.azure.wayme.cloud"
+pattern = "ava.game.naver.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "df.game.naver.com.azure.wayme.cloud"
+pattern = "blog.webex.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "blog.webex.com.azure.wayme.cloud"
+pattern = "www.sushiroll.co.id.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "zoomcares.zoom.us.azure.wayme.cloud"
+pattern = "blog.sushiroll.co.id.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "support.zoom.us.azure.wayme.cloud"
+pattern = "cdn.appsflyer.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "stage-7.duolingo.com.azure.wayme.cloud"
+pattern = "investor.fb.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "sb.scorecardresearch.com.azure.wayme.cloud"
+pattern = "investor.spotify.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "go.appannie.com.azure.wayme.cloud"
+pattern = "www.joox.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "lipcon.com.azure.wayme.cloud"
+pattern = "quiz.staging.vidio.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "img.email1.vidio.com.azure.wayme.cloud"
+pattern = "zoomcares.zoom.us.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "img.email2.vidio.com.azure.wayme.cloud"
+pattern = "graph.facebook.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "img.email3.vidio.com.azure.wayme.cloud"
+pattern = "www.help.tinder.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "api.webex.com.azure.wayme.cloud"
+pattern = "poe.garena.com.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "investor.fb.com.azure.wayme.cloud"
+pattern = "games.axis.co.id.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "graph.instagram.com.azure.wayme.cloud"
+pattern = "api.ovo.id.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "www.wasa.com.azure.wayme.cloud"
+pattern = "cdnodeb.visionplus.singa.wayme.cloud"
 custom_domain = true
-
 [[routes]]
-pattern = "z-p15.www.instagram.com.azure.wayme.cloud"
+pattern = "104.26.6.171.singa.wayme.cloud"
 custom_domain = true
-
+[[routes]]
+pattern = "app.gopay.co.id.singa.wayme.cloud"
+custom_domain = true
+[[routes]]
+pattern = "go.appsflyer.com.singa.wayme.cloud"
+custom_domain = true
+[[routes]]
+pattern = "devsupport.webex.com.singa.wayme.cloud"
+custom_domain = true
+[[routes]]
+pattern = "edu.ruangguru.com.singa.wayme.cloud"
+custom_domain = true
+[[routes]]
+pattern = "fadz.ngapaktunnelling.xyz.singa.wayme.cloud"
+custom_domain = true
+[[routes]]
+pattern = "creativeservices.netflix.com.singa.wayme.cloud"
+custom_domain = true
+[[routes]]
+pattern = "npca.netflix.com.singa.wayme.cloud"
+custom_domain = true
+[[routes]]
+pattern = "gw.ruangguru.com.singa.wayme.cloud"
+custom_domain = true
 
 [vars]
-PROXYIP = "52.74.101.26"
+# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+# PROXYIP = "1.2.3.4"
+# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+# NODE_ID = "1"
+# API_TOKEN = "example_dev_token"
+# API_HOST = "api.v2board.com"
 UUID = "530d3f03-06ae-4c8a-9edf-cab933f869d2"
