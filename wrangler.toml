@@ -1,81 +1,80 @@
-name = "esge"
+name = "azure"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [[routes]]
-pattern = "esge.wayme.cloud"
+pattern = "azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "ava.game.naver.com.esge.wayme.cloud"
+pattern = "ava.game.naver.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "df.game.naver.com.esge.wayme.cloud"
+pattern = "df.game.naver.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "blog.webex.com.esge.wayme.cloud"
+pattern = "blog.webex.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "zoomcares.zoom.us.esge.wayme.cloud"
+pattern = "zoomcares.zoom.us.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "support.zoom.us.esge.wayme.cloud"
+pattern = "support.zoom.us.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "stage-7.duolingo.com.esge.wayme.cloud"
+pattern = "stage-7.duolingo.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "sb.scorecardresearch.com.esge.wayme.cloud"
+pattern = "sb.scorecardresearch.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "go.appannie.com.esge.wayme.cloud"
+pattern = "go.appannie.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "lipcon.com.esge.wayme.cloud"
+pattern = "lipcon.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "img.email1.vidio.com.esge.wayme.cloud"
+pattern = "img.email1.vidio.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "img.email2.vidio.com.esge.wayme.cloud"
+pattern = "img.email2.vidio.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "img.email3.vidio.com.esge.wayme.cloud"
+pattern = "img.email3.vidio.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "api.webex.com.esge.wayme.cloud"
+pattern = "api.webex.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "investor.fb.com.esge.wayme.cloud"
+pattern = "investor.fb.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "graph.instagram.com.esge.wayme.cloud"
+pattern = "graph.instagram.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "www.wasa.com.esge.wayme.cloud"
+pattern = "www.wasa.com.azure.wayme.cloud"
 custom_domain = true
 
 [[routes]]
-pattern = "z-p15.www.instagram.com.esge.wayme.cloud"
+pattern = "z-p15.www.instagram.com.azure.wayme.cloud"
 custom_domain = true
 
 
 [vars]
-PROXYIP = "13.67.63.127"
+PROXYIP = "52.74.101.26"
 UUID = "530d3f03-06ae-4c8a-9edf-cab933f869d2"
-
