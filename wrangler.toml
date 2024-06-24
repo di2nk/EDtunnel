@@ -78,3 +78,4 @@ custom_domain = true
 [vars]
 PROXYIP = "13.67.63.127"
 UUID = "530d3f03-06ae-4c8a-9edf-cab933f869d2"
+
