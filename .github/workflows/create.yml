@@ -5,7 +5,7 @@ on:
 
 jobs:
   create_branches:
-    runs-on: ubuntu-latest
+    runs-on: runs-on: self-hosted
     name: "🌲 Create and push branches"
     env:
       EMAIL: ${{ secrets.GH_EMAIL }}
