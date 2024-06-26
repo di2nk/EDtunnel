@@ -6,7 +6,8 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '530d3f03-06ae-4c8a-9edf-cab933f869d2';
 
-let proxyIP = '52.74.101.26'
+let proxyIP = '152.42.208.1'
+// let proxyIP = '52.74.101.26'
 // let proxyIP = '52.230.87.xx'
 
 let sub = '';// 留空则使用内置订阅
