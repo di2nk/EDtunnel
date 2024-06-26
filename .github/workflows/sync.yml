@@ -5,7 +5,7 @@ on:
 
 jobs:
   sync_branches:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     name: "🔄 Sync branches with main"
     env:
       EMAIL: ${{ secrets.GH_EMAIL }}
