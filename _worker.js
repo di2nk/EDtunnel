@@ -6,10 +6,10 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '530d3f03-06ae-4c8a-9edf-cab933f869d2';
 
-let proxyIP = '13.228.155.72'
+// let proxyIP = '13.228.155.72'
 // let proxyIP = '138.2.99.97'
 // let proxyIP = '52.74.101.26'
-// let proxyIP = '52.230.87.xx'
+let proxyIP = '167.71.198.82'
 
 let sub = '';// 留空则使用内置订阅
 let subconverter = 'url.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假uuid和host订阅。
