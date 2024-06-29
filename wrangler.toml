@@ -5,7 +5,7 @@ name = "asur" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "waime.tech"
+pattern = "sg.waime.tech"
 custom_domain = true
 [[routes]]
 pattern = "df.game.naver.com.waime.tech"
