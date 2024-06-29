@@ -4,24 +4,6 @@ name = "asur" # todo
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-[[routes]]
-pattern = "wayme.cloud"
-custom_domain = true
-[[routes]]
-pattern = "df.game.naver.com.wayme.cloud"
-custom_domain = true
-[[routes]]
-pattern = "ava.game.naver.com.wayme.cloud"
-custom_domain = true
-[[routes]]
-pattern = "quiz.staging.vidio.com.wayme.cloud"
-custom_domain = true
-[[routes]]
-pattern = "api.instagram.com.wayme.cloud"
-custom_domain = true
-[[routes]]
-pattern = "support.zoom.us.wayme.cloud"
-custom_domain = true
 
 [vars]
 UUID = "530d3f03-06ae-4c8a-9edf-cab933f869d2"
